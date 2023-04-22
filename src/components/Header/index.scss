@@ -1,0 +1,17 @@
+@use "../../styles/commons.scss" as *;
+$header-bottom-shadow: 0 1px 12px 2px #eaeaea;
+$header-bottom-margin: 10px;
+
+.common-header {
+  align-items: center;
+  box-shadow: $header-bottom-shadow;
+  margin-bottom: $header-bottom-margin;
+  background-color: #fff;
+  .header-search {
+    width: 260px;
+    height: 36px;
+    input {
+      @include clearInput;
+    }
+  }
+}

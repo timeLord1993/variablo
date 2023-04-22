@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4014843 */
+  src: url('iconfont.woff2?t=1681397279986') format('woff2'),
+       url('iconfont.woff?t=1681397279986') format('woff'),
+       url('iconfont.ttf?t=1681397279986') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aixin:before {
+  content: "\e648";
+}
+
+.icon-dingwei:before {
+  content: "\e649";
+}
+
+.icon-luxiang:before {
+  content: "\e64a";
+}
+
+.icon-huiyuan:before {
+  content: "\e64b";
+}
+
+.icon-bofang:before {
+  content: "\e64c";
+}
+
+.icon-dianying:before {
+  content: "\e64d";
+}
+
+.icon-liwu:before {
+  content: "\e64e";
+}
+
+.icon-shouye:before {
+  content: "\e64f";
+}
+
+.icon-wode:before {
+  content: "\e650";
+}
+
+.icon-fenxiang:before {
+  content: "\e651";
+}
+
+.icon-zhaoxiang:before {
+  content: "\e652";
+}
+
+.icon-xinxi:before {
+  content: "\e653";
+}
+
+.icon-zanting:before {
+  content: "\e654";
+}
+
+.icon-changge:before {
+  content: "\e655";
+}
+
+.icon-tongzhi:before {
+  content: "\e656";
+}
+
+.icon-remen:before {
+  content: "\e657";
+}
+
+.icon-youxi:before {
+  content: "\e658";
+}
+
+.icon-zhuanfa:before {
+  content: "\e659";
+}
+
+.icon-rili:before {
+  content: "\e65a";
+}
+
+.icon-zhaopian:before {
+  content: "\e65b";
+}
+
+.icon-yinle:before {
+  content: "\e65c";
+}
+
+.icon-naozhong:before {
+  content: "\e65d";
+}
+
+.icon-reshui:before {
+  content: "\e65e";
+}
+
+.icon-diqiu:before {
+  content: "\e65f";
+}
+
+.icon-yishu:before {
+  content: "\e660";
+}
+
+.icon-tuzi:before {
+  content: "\e661";
+}
+
+.icon-linggan:before {
+  content: "\e662";
+}
+
+.icon-naiping:before {
+  content: "\e663";
+}
+
+.icon-shangcheng:before {
+  content: "\e664";
+}
+
+.icon-qinzihuodong:before {
+  content: "\e665";
+}
+
+.icon-xuexiao:before {
+  content: "\e666";
+}
+
+.icon-shoucang:before {
+  content: "\e667";
+}
+
+.icon-shanchu:before {
+  content: "\e668";
+}
+

@@ -1,0 +1,10 @@
+@use "../../styles/commons.scss" as *;
+.container {
+  height: 100vh;
+  overflow: hidden;
+  .content-list {
+    height: calc(100vh - 92px);
+    overflow-y: auto;
+    @include hideScroll;
+  }
+}
